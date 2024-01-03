@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-3{
+    border: 1px solid black;
+    height: 30vh;
+    width: 25%;
+    border: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.list{
+    background-color:lightcoral;
+    width: 15%;
+    border: 1px solid black;
+}
+
+.col-3{
+    width: 25%;
+     border:1px solid black;
+     height: 25vh;
+   border: none;
+}
+.col-4{
+    border: 1px solid black;
+    height: 20vh;
+    border: none;
+}
+
+.card{
+    width: 50%;
+    
+}
+
+#conti{
+    background: url("/image2/EcBQQWxN_400x400.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
